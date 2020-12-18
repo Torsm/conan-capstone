@@ -1,0 +1,4 @@
+sources:
+  4.0.2:
+    url: "https://github.com/aquynh/capstone/archive/4.0.2.tar.gz"
+    sha256: "7C81D798022F81E7507F1A60D6817F63AA76E489AA4E7055255F21A22F5E526A"
